@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "3a575c1566562c918bb0588210a91779",
+    "pageAccessToken": "EAACm8zHCcO0BAMXXfPH3K0hcT1rT2EZBImojatxO2NPF3H8ehMydXfbyFneU7yZCru5W3hbMyZBypcjSBeJ3dzbSwys3GC5Nr926axXeq0mr0PYZBtAZCJldEf6lUFnrAJ2X3gm9XvXnb6Vksge3mw69j7k6syShZAvmT0EsfS7AZDZD",
+    "validationToken": "keith",
+    "serverURL": "https://pacific-dawn-43491.herokuapp.com/"
 }
